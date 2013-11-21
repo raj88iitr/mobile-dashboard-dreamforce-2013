@@ -544,7 +544,7 @@
    
    
    /* D3js Functions */
-   /* D3js specific chart logic present in this code are modified version of d3 gallyer/mike bostock source code */
+   /* D3js specific chart logic present in this code are modified version of d3 gallary/mike bostock source code */
    
     chartapp.fn.d3linechart = function(){
     //construct dataset Oppty Close Date and Amount
