@@ -10,7 +10,7 @@ Steps to Deploy this app in your salesforce org:
 
 2. Deploy the static resources - both jquery mobile and d3js
 
-3. I have hard coded the report id in Document.ready method line #992, change it with your actual org report id
+3. I have hard coded the report id in Document.ready method line #993, change it with your actual org report id
 
 4. Deploy visual force page and access it at your_org_instance/apex/df2013
 
