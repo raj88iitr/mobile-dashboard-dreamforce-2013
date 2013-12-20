@@ -14,5 +14,6 @@ Steps to Deploy this app in your salesforce org:
 
 4. Deploy visual force page and access it at your_org_instance/apex/df2013
 
+Powerpoint link: http://www.scribd.com/doc/186742598/Dreamforce-2013-Building-Mobile-Dashboard-with-JQuery-Mobile-Google-Charts-D3-js
 
 Enjoy!
